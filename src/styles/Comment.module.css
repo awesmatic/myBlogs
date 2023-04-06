@@ -1,0 +1,44 @@
+/* Comment.module.css */
+
+.commentContainer {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  height: 94%;
+  /* margin-bottom: 5rem; */
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.comment {
+  margin-bottom: 1rem;
+}
+
+.comment p {
+  margin: 0;
+  /* color: rgb(238, 237, 247); */
+}
+
+.comment small {
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.commentInput {
+  display: block;
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.commentButton {
+  display: block;
+  margin-top: 1rem;
+  background-color: #0070f3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}

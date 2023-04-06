@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "The Joy of Hiking",
+    "content": "Hiking is a great way to get outdoors and enjoy nature. Whether you are going on a short day hike or a longer backpacking trip, the fresh air and exercise can do wonders for your physical and mental health. Plus, hiking is a fun way to explore new areas and discover hidden gems that you might not have found otherwise. So grab your hiking boots and hit the trails!",
+    "imageUrl": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "title": "The Benefits of Yoga",
+    "content": "Yoga is a popular form of exercise that has been around for thousands of years. Not only does it help improve flexibility, strength, and balance, but it can also reduce stress and promote relaxation. Plus, with so many different types of yoga to choose from, there is something for everyone. So if you are looking for a low-impact way to stay active and improve your overall well-being, give yoga a try!",
+    "imageUrl": "https://images.pexels.com/photos/624015/pexels-photo-624015.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "title": "The Benefits of Reading Books",
+    "content": "Reading is a wonderful pastime that can help you relax, learn new things, and expand your horizons. Whether you enjoy fiction or non-fiction, there is a book out there for everyone. And with so many different genres to choose from, you are sure to find something that interests you. So why not curl up with a good book and let your mind wander?",
+    "imageUrl": "https://images.pexels.com/photos/3244513/pexels-photo-3244513.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 5,
+    "userId": 2,
+    "title": "The Joys of Gardening",
+    "content": "Gardening is a great way to get outdoors, exercise, and connect with nature. Whether you have a small balcony or a large backyard, you can create a beautiful and productive garden that will provide you with fresh fruits, vegetables, and herbs. Plus, gardening can be a relaxing and meditative activity that helps reduce stress and improve mental health. So grab a shovel and get digging!",
+    "imageUrl": "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 6,
+    "userId": 2,
+    "title": "The Importance of Staying Active",
+    "content": "Staying active is important for maintaining good physical and mental health. Whether you enjoy going for a run, hitting the gym, or taking a yoga class, there are many different ways to get moving and stay in shape. Regular exercise can help improve cardiovascular health, reduce the risk of chronic diseases, and boost mood and cognitive function. So make sure to prioritize physical activity in your daily routine!",
+    "imageUrl": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 7,
+    "userId": 2,
+    "title": "The Benefits of Meditation",
+    "content": "Meditation is a powerful practice that can help reduce stress, improve focus, and promote overall well-being. Whether you are new to meditation or have been practicing for years, there are many different techniques and styles to explore. Some popular types of meditation include mindfulness meditation, loving-kindness meditation, and transcendental meditation. So take a deep breath, find a quiet space, and start meditating today!",
+    "imageUrl": "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 8,
+    "userId": 2,
+    "title": "The Art of Photography",
+    "content": "Photography is a creative and rewarding hobby that can help you capture and preserve precious memories. Whether you prefer to use a traditional film camera or a digital camera, there are many different techniques and styles to explore. Some popular types of photography include landscape photography, portrait photography, and street photography. So grab your camera and start capturing the beauty of the world around you!",
+    "imageUrl": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 9,
+    "userId": 2,
+    "title": "The Power of Positive Thinking",
+    "content": "Positive thinking is a powerful tool that can help you overcome obstacles, achieve your goals, and lead a happier and more fulfilling life. By focusing on the good things in your life and cultivating a positive attitude, you can increase your resilience and cope better with stress and adversity. So start looking on the bright side, practice gratitude, and embrace the power of positive thinking!",
+    "imageUrl": "https://images.pexels.com/photos/1770809/pexels-photo-1770809.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 10,
+    "userId": 1,
+    "title": "The Art of Writing",
+    "content": "Writing is a craft that can take years to master. Whether you're writing a novel, a blog post, or a short story, it's important to hone your skills and practice regularly. Some tips for improving your writing include reading widely, studying the craft of writing, and writing every day. Remember, writing is a journey, not a destination, so enjoy the process and don't be afraid to make mistakes.",
+    "imageUrl": "https://images.pexels.com/photos/3900437/pexels-photo-3900437.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 11,
+    "userId": 1,
+    "title": "The Importance of Staying Active",
+    "content": "Staying active is important for maintaining good physical and mental health. Whether you enjoy going for a run, hitting the gym, or taking a yoga class, there are many different ways to get moving and stay in shape. Regular exercise can help improve cardiovascular health, reduce the risk of chronic diseases, and boost mood and cognitive function. So make sure to prioritize physical activity in your daily routine!",
+    "imageUrl": "https://images.pexels.com/photos/1643113/pexels-photo-1643113.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 12,
+    "userId": 1,
+    "title": "The Benefits of Travel",
+    "content": "Travel is a great way to explore new cultures, meet new people, and gain new perspectives. Whether you're backpacking through Europe or taking a weekend road trip, travel can be an enriching and rewarding experience. Some benefits of travel include learning about different cultures, trying new foods, and stepping out of your comfort zone. So pack your bags and start exploring the world!",
+    "imageUrl": "https://images.pexels.com/photos/1525589/pexels-photo-1525589.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 13,
+    "userId": 1,
+    "title": "The Importance of Sleep",
+    "content": "Sleep is an essential part of our daily lives, yet many of us don't get enough of it. Not only can lack of sleep lead to fatigue and poor performance, but it can also have negative effects on our physical and mental health. Some tips for getting better sleep include establishing a regular sleep schedule, creating a relaxing bedtime routine, and avoiding caffeine and electronics before bedtime. So make sure to prioritize your sleep and wake up feeling refreshed!",
+    "imageUrl": "https://images.pexels.com/photos/1995730/pexels-photo-1995730.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 14,
+    "userId": 1,
+    "title": "The Power of Music",
+    "content": "Music has the power to lift our mood, evoke memories, and bring people together. Whether you're a fan of classical music, rock, or hip-hop, there's something for everyone. Some benefits of listening to music include reducing stress and anxiety, improving focus and productivity, and boosting our overall well-being. So turn up the volume and let the music move you!",
+    "imageUrl": "https://images.pexels.com/photos/1699030/pexels-photo-1699030.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 15,
+    "userId": 1,
+    "title": "The Benefits of Volunteering",
+    "content": "Volunteering is a great way to give back to your community and make a positive impact on the world. Whether you're volunteering at a local soup kitchen, animal shelter, or community center, there are countless ways to get involved. Some benefits of volunteering include building new skills, meeting new people, and gaining a sense of purpose and fulfillment. So find a cause you're passionate about and start making a difference!",
+    "imageUrl": "https://images.pexels.com/photos/4962458/pexels-photo-4962458.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 16,
+    "userId": 3,
+    "title": "The Art of Cooking",
+    "content": "Cooking is a wonderful way to express your creativity and nourish your body. Whether you're a seasoned chef or a beginner cook, there are endless recipes and techniques to explore. Some tips for improving your cooking include experimenting with new ingredients, mastering basic techniques, and learning from others. So put on your apron and start cooking up a storm!",
+    "imageUrl": "https://images.pexels.com/photos/4319752/pexels-photo-4319752.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 17,
+    "userId": 2,
+    "title": "The Benefits of Mindfulness",
+    "content": "Mindfulness is a practice that involves being present in the moment and focusing on your thoughts and feelings without judgment. Whether you're practicing mindfulness meditation, yoga, or simply taking a walk in nature, there are many ways to cultivate mindfulness in your daily life. Some benefits of mindfulness include reducing stress and anxiety, improving focus and concentration, and promoting overall well-being. So take a deep breath, slow down, and be present in the moment.",
+    "imageUrl": "https://images.pexels.com/photos/4388593/pexels-photo-4388593.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 18,
+    "userId": 1,
+    "title": "The Joy of Hiking",
+    "content": "Hiking is a great way to get outdoors and enjoy nature. Whether you are going on a short day hike or a longer backpacking trip, the fresh air and exercise can do wonders for your physical and mental health. Plus, hiking is a fun way to explore new areas and discover hidden gems that you might not have found otherwise. So grab your hiking boots and hit the trails!",
+    "imageUrl": "https://images.pexels.com/photos/4215110/pexels-photo-4215110.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 19,
+    "userId": 3,
+    "title": "Cooking with Fresh Herbs",
+    "content": "Fresh herbs are a wonderful addition to any meal. Whether you are using them to add flavor to a soup or stew, or as a garnish on a salad or pasta dish, herbs can take your cooking to the next level. And the best part? Many herbs are easy to grow at home, so you can have a fresh supply all year round. Some popular herbs to try include basil, thyme, rosemary, and parsley.",
+    "imageUrl": "https://images.pexels.com/photos/4215102/pexels-photo-4215102.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 20,
+    "userId": 2,
+    "title": "The Benefits of Yoga",
+    "content": "Yoga is a popular form of exercise that has been around for thousands of years. Not only does it help improve flexibility, strength, and balance, but it can also reduce stress and promote relaxation. Plus, with so many different types of yoga to choose from, there is something for everyone. So if you are looking for a low-impact way to stay active and improve your overall well-being, give yoga a try!",
+    "imageUrl": "https://images.pexels.com/photos/4220967/pexels-photo-4220967.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 21,
+    "userId": 1,
+    "title": "The Benefits of Reading Books",
+    "content": "Reading is a wonderful pastime that can help you relax, learn new things, and expand your horizons. Whether you enjoy fiction or non-fiction, there is a book out there for everyone. And with so many different genres to choose from, you are sure to find something that interests you. So why not curl up with a good book and let your mind wander?",
+    "imageUrl": "https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 22,
+    "userId": 3,
+    "title": "The Joys of Gardening",
+    "content": "Gardening is a great way to get outdoors, exercise, and connect with nature. Whether you have a small balcony or a large backyard, you can create a beautiful and productive garden that will provide you with fresh fruits, vegetables, and herbs. Plus, gardening can be a relaxing and meditative activity that helps reduce stress and improve mental health. So grab a shovel and get digging!",
+    "imageUrl": "https://images.pexels.com/photos/1098365/pexels-photo-1098365.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 23,
+    "userId": 2,
+    "title": "The Importance of Staying Active",
+    "content": "Staying active is important for maintaining good physical and mental health. Whether you enjoy going for a run, hitting the gym, or taking a yoga class, there are many different ways to get moving and stay in shape. Regular exercise can help improve cardiovascular health, reduce the risk of chronic diseases, and boost mood and cognitive function. So make sure to prioritize physical activity in your daily routine!",
+    "imageUrl": "https://images.pexels.com/photos/816608/pexels-photo-816608.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  },
+  {
+    "id": 24,
+    "userId": 1,
+    "title": "The Benefits of Meditation",
+    "content": "Meditation is a powerful practice that can help reduce stress, improve focus, and promote overall well-being. Whether you are new to meditation or have been practicing for years, there are many different techniques and styles to explore. Some popular types of meditation include mindfulness meditation, loving-kindness meditation, and transcendental meditation. So take a deep breath, find a quiet space, and start meditating",
+    "imageUrl": "https://images.pexels.com/photos/1131406/pexels-photo-1131406.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "comments": [
+      "Benefits of exercise for physical and mental health",
+      "Strengthen heart, reduce heart disease risk",
+      "Maintain healthy weight, reduce obesity risk",
+      "Reduce stress, improve mood",
+      "Improve sleep quality, feel rested",
+      "Start small, find enjoyable activities, make it a habit",
+      "Exercise improves overall well-being and health"
+    ]
+  }
+]

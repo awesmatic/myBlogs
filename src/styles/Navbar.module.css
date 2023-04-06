@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #333;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navItem {
+  margin: 0 10px;
+}
+
+.navItem a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* @media (max-width: 600px) {
+} */

@@ -1,0 +1,84 @@
+.blogPost {
+  display: flex;
+  flex-direction: row;
+  /* align-items: center;
+  justify-content: center; */
+  flex-wrap: wrap;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  margin: auto;
+  /* border: 1px solid rgb(5, 0, 0); */
+}
+
+.blogItem {
+  width: 20rem;
+  /* height: 25rem; */
+  margin: 1rem;
+  /* padding: 1rem; */
+  border-radius: 5px;
+  /* border: 1px solid red; */
+  cursor: pointer;
+  background-color: #0a0707;
+}
+
+.blogPost h3 {
+  /* font-size: 16px; */
+  line-height: 1.5;
+  /* padding: 1rem; */
+  height: 3rem;
+  color: #f0e9e9;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+.blogPost img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.blogContent {
+  color: #f0e9e9;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 1rem;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  margin: 2rem;
+
+  /* border: 1px solid red; */
+}
+
+.pagination ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pagination li {
+  margin: 0 10px;
+  cursor: pointer;
+  list-style: none;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+.pagination li.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.pagination li:hover {
+  background-color: #007bff;
+  color: #fff;
+}
